@@ -95,7 +95,7 @@ humboldt <- expand_grid(events, sp_list) %>%
     hasVouchers = "false",
     hasMaterialSamples = "false",
     samplingPerformedBy = "Henri Robert | Bruno Danis",
-    samplingEffortReported = "true",
+    isSamplingEffortReported = "true",
     samplingEffortProtocol = "Continuous monitoring of birds and marine mammals (species identification and headcount) is performed from the bridge or a spot offering the best visibility on deck. Bird/mammal standard counts are 30 min non-stop observation with binoculars for identification (if required) and age/sex determination when possible.",
     samplingEffortValue = 30,
     samplingEffortUnit = "minutes continuous monitoring"
@@ -105,7 +105,7 @@ humboldt <- expand_grid(events, sp_list) %>%
          isTaxonomicScopeFullyReported, isAbsenceReported, inventoryTypes, 
          protocolNames, protocolDescriptions, protocolReferences, isAbundanceReported,
          isLeastSpecificTargetCategoryQuantityInclusive, hasVouchers, 
-         hasMaterialSamples, samplingPerformedBy, samplingEffortReported,
+         hasMaterialSamples, samplingPerformedBy, isSamplingEffortReported,
          samplingEffortProtocol, samplingEffortValue, samplingEffortUnit)
 
 # emof
