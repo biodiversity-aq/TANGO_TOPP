@@ -103,7 +103,10 @@ humboldt <- expand_grid(events, sp_list) %>%
   select(eventID, targetTaxonomicScope, reportedWeather, verbatimTargetScope, 
          eventDurationValue, eventDurationUnit, taxonCompletenessReported, 
          isTaxonomicScopeFullyReported, isAbsenceReported, inventoryTypes, 
-         protocolNames, protocolDescriptions)
+         protocolNames, protocolDescriptions, protocolReferences, isAbundanceReported,
+         isLeastSpecificTargetCategoryQuantityInclusive, hasVouchers, 
+         hasMaterialSamples, samplingPerformedBy, samplingEffortReported,
+         samplingEffortProtocol, samplingEffortValue, samplingEffortUnit)
 
 # emof
 
