@@ -34,7 +34,7 @@ occ <- topp_data %>%
     decimalLatitude_end = round(latitude_stop_degree * -1.0 + latitude_stop_decimal_minute/60, 4),
     decimalLongitude_end = round(longitude_stop_degree * -1.0 + longitude_stop_decimal_minute/60, 4),
     footprintWKT = 
-      case_when(!is.na(decimalLongitude_end) & !is.na(decimalLatitude_end) ~ 
+      case_when(!is.na(decimalLongitude_end) & !is.na(decimalLatitude_end) & decimalLongitude_start != decimalLongitude_end ~ 
                   str_c(
                     "LINESTRING (", 
                     format(decimalLongitude_start, nsmall = 4), " ", 
@@ -54,7 +54,10 @@ occ <- topp_data %>%
   unnest_wider(centroid) %>%
   mutate(decimalLatitude = sprintf("%.4f", decimalLatitude),
          decimalLongitude = sprintf("%.4f", decimalLongitude),
-         coordinateUncertaintyInMeters = as.integer(coordinateUncertaintyInMeters))
+         coordinateUncertaintyInMeters = case_when(
+           as.integer(coordinateUncertaintyInMeters) == 0 ~ 30,
+           TRUE ~ as.integer(coordinateUncertaintyInMeters)
+           ))
 
 
 # events
