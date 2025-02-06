@@ -132,7 +132,7 @@ emof <- events %>%
       measurementType == "Vessel speed (nm)" ~ "Knots"
     ),
     measurementUnitID = case_when(
-      measurementType == "Cloud cover (%)" ~ " 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/",
+      measurementType == "Cloud cover (%)" ~ "http://vocab.nerc.ac.uk/collection/P06/current/UPCT/",
       measurementType == "Vessel speed (nm)" ~ "http://vocab.nerc.ac.uk/collection/P06/current/UKNT/"
     )
   ) %>%

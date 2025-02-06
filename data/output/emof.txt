@@ -1,303 +1,303 @@
 eventID	measurementType	measurementTypeID	measurementValue	measurementUnit	measurementUnitID
-T2 TOPP_01	Cloud cover (%)		60	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_01	Cloud cover (%)		60	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_01	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	9	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_05	Cloud cover (%)		20	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_05	Cloud cover (%)		20	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_05	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	9	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_06	Cloud cover (%)		20	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_06	Cloud cover (%)		20	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_06	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
 T2 TOPP_07	Sea State (BF)	http://vocab.ices.dk/?ref=1705	6		
-T2 TOPP_07	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_07	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_08	Sea State (BF)	http://vocab.ices.dk/?ref=1705	6		
-T2 TOPP_08	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_08	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_09	Sea State (BF)	http://vocab.ices.dk/?ref=1705	6		
-T2 TOPP_09	Cloud cover (%)		90	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_09	Cloud cover (%)		90	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_10	Sea State (BF)	http://vocab.ices.dk/?ref=1705	 		
-T2 TOPP_10	Cloud cover (%)		90	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_10	Cloud cover (%)		90	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_10	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.5	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_11	Cloud cover (%)		95	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_11	Cloud cover (%)		95	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_11	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.5	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_12	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_12	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_12	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	6.7	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_13	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_13	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_13	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_14	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_14	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_14	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.7	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_15	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_15	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_15	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.7	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_16	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_16	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_16	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_17	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_17	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_17	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_18	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_18	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_18	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_19	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_19	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_19	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_2	Cloud cover (%)		60	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_2	Cloud cover (%)		60	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_2	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	9	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_20	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_20	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_20	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8.6	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_20_2	Cloud cover (%)		95	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_20_2	Cloud cover (%)		95	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_20_2	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8.2	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_21	Cloud cover (%)		95	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_21	Cloud cover (%)		95	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_21	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8.2	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_22	Cloud cover (%)		50	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_22	Cloud cover (%)		50	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_22	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_23	Cloud cover (%)		80	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_23	Cloud cover (%)		80	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_23	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.7	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_24	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_24	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_24	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_25	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_25	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_25	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.6	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_26	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_26	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_26	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.4	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_27	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_27	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_27	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.3	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_28	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_28	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_28	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.4	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_29	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_29	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_29	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.3	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_3	Cloud cover (%)		20	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_3	Cloud cover (%)		20	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_3	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	9	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_30	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_30	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_30	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.3	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_31	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_31	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_31	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.3	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_32	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_32	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_32	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.3	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_33	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_33	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_33	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.3	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_34	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_34	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_34	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.3	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_35	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_35	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_35	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	3	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_36	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_36	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_36	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	3	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_37	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_37	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_37	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.5	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_38	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_38	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_38	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.7	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_39	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_39	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_39	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.4	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_4	Cloud cover (%)		20	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_4	Cloud cover (%)		20	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_4	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_40	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_40	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_40	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	6	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_41	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_41	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_41	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.7	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_42	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_42	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_42	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_43	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_43	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_43	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_44	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_44	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_44	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_45	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_45	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_45	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.7	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_46	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_46	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_46	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_47	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_47	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_47	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.5	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_48	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_48	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_48	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_49	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_49	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_49	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_50	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_50	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_50	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.5	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_51	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_51	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_51	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.5	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_52	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_52	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_52	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_53	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_53	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_53	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.5	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_54	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_54	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_54	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.5	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_55	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_55	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_55	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_56	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_56	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_56	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_57	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_57	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_57	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_58	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_58	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_58	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_59	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_59	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_59	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_60	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_60	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_60	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_61	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_61	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_61	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8.2	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_62	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_62	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_62	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8.1	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_63	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_63	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_63	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8.5	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_64	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_64	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_64	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_65	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_65	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_65	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_66	Cloud cover (%)		50	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_66	Cloud cover (%)		50	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_66	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_67	Cloud cover (%)		40	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_67	Cloud cover (%)		40	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_67	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.5	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_68	Cloud cover (%)		50	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_68	Cloud cover (%)		50	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_68	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.5	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
-T2 TOPP_69	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+T2 TOPP_69	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 T2 TOPP_69	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.5	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
 TOPP_1	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_1	Cloud cover (%)		80	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_1	Cloud cover (%)		80	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_10	Sea State (BF)	http://vocab.ices.dk/?ref=1705	4		
-TOPP_10	Cloud cover (%)		60	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_10	Cloud cover (%)		60	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_11	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_11	Cloud cover (%)		80	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_11	Cloud cover (%)		80	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_12	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_12	Cloud cover (%)		25	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_12	Cloud cover (%)		25	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_12	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.5	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
 TOPP_13	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_13	Cloud cover (%)		50	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_13	Cloud cover (%)		50	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_13	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.3	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
 TOPP_14	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_14	Cloud cover (%)		30	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_14	Cloud cover (%)		30	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_14	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.8	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
 TOPP_15	Sea State (BF)	http://vocab.ices.dk/?ref=1705	4		
-TOPP_15	Cloud cover (%)		70	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_15	Cloud cover (%)		70	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_15	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.5	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
 TOPP_16	Sea State (BF)	http://vocab.ices.dk/?ref=1705	4		
-TOPP_16	Cloud cover (%)		50	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_16	Cloud cover (%)		50	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_16	Vessel speed (nm)	http://vocab.nerc.ac.uk/collection/P01/current/APSAGP01/	7.7	Knots	http://vocab.nerc.ac.uk/collection/P06/current/UKNT/
 TOPP_17	Sea State (BF)	http://vocab.ices.dk/?ref=1705	4		
-TOPP_17	Cloud cover (%)		50	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_17	Cloud cover (%)		50	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_18	Sea State (BF)	http://vocab.ices.dk/?ref=1705	4		
-TOPP_18	Cloud cover (%)		50	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_18	Cloud cover (%)		50	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_19	Sea State (BF)	http://vocab.ices.dk/?ref=1705	4		
-TOPP_19	Cloud cover (%)		50	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_19	Cloud cover (%)		50	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_2	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_2	Cloud cover (%)		80	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_2	Cloud cover (%)		80	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_20	Sea State (BF)	http://vocab.ices.dk/?ref=1705	5		
-TOPP_20	Cloud cover (%)		95	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_20	Cloud cover (%)		95	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_21	Sea State (BF)	http://vocab.ices.dk/?ref=1705	4		
-TOPP_21	Cloud cover (%)		40	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_21	Cloud cover (%)		40	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_22	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_22	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_22	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_23	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_23	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_23	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_24	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_24	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_24	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_25	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_25	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_25	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_26	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_26	Cloud cover (%)		90	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_26	Cloud cover (%)		90	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_28	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_28	Cloud cover (%)		90	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_28	Cloud cover (%)		90	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_29	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_29	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_29	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_3	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_3	Cloud cover (%)		80	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_3	Cloud cover (%)		80	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_30	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_30	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_30	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_31	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_31	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_31	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_32	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_32	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_32	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_33	Sea State (BF)	http://vocab.ices.dk/?ref=1705	4		
-TOPP_33	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_33	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_34	Sea State (BF)	http://vocab.ices.dk/?ref=1705	4		
-TOPP_34	Cloud cover (%)		80	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_34	Cloud cover (%)		80	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_35	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_35	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_35	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_36	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_36	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_36	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_37	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_37	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_37	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_38	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_38	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_38	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_39	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_39	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_39	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_4	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_4	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_4	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_40	Sea State (BF)	http://vocab.ices.dk/?ref=1705	4		
-TOPP_40	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_40	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_41	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_41	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_41	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_42	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_42	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_42	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_43	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_43	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_43	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_44	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_44	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_44	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_45	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_45	Cloud cover (%)		95	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_45	Cloud cover (%)		95	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_46	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_46	Cloud cover (%)		95	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_46	Cloud cover (%)		95	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_47	Sea State (BF)	http://vocab.ices.dk/?ref=1705	4		
-TOPP_47	Cloud cover (%)		95	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_47	Cloud cover (%)		95	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_48	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_48	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_48	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_49	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_49	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_49	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_5	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_5	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_5	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_50	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_50	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_50	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_51	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_51	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_51	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_53	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_53	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_53	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_54	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_54	Cloud cover (%)		90	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_54	Cloud cover (%)		90	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_55	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_55	Cloud cover (%)		85	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_55	Cloud cover (%)		85	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_56	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_56	Cloud cover (%)		70	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_56	Cloud cover (%)		70	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_57	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_57	Cloud cover (%)		30	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_57	Cloud cover (%)		30	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_58	Sea State (BF)	http://vocab.ices.dk/?ref=1705	4		
-TOPP_58	Cloud cover (%)		30	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_58	Cloud cover (%)		30	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_59	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_59	Cloud cover (%)		20	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_59	Cloud cover (%)		20	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_6	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_6	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_6	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_60	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_60	Cloud cover (%)		30	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_60	Cloud cover (%)		30	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_61	Sea State (BF)	http://vocab.ices.dk/?ref=1705	4		
-TOPP_61	Cloud cover (%)		20	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_61	Cloud cover (%)		20	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_62	Sea State (BF)	http://vocab.ices.dk/?ref=1705	5		
-TOPP_62	Cloud cover (%)		20	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_62	Cloud cover (%)		20	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_63	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_63	Cloud cover (%)		5	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_63	Cloud cover (%)		5	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_64	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_64	Cloud cover (%)		20	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_64	Cloud cover (%)		20	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_65	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_65	Cloud cover (%)		20	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_65	Cloud cover (%)		20	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_66	Sea State (BF)	http://vocab.ices.dk/?ref=1705	1		
-TOPP_66	Cloud cover (%)		20	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_66	Cloud cover (%)		20	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_67	Sea State (BF)	http://vocab.ices.dk/?ref=1705	1		
-TOPP_67	Cloud cover (%)		20	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_67	Cloud cover (%)		20	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_68	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_68	Cloud cover (%)		30	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_68	Cloud cover (%)		30	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_69	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_69	Cloud cover (%)		30	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_69	Cloud cover (%)		30	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_7	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_7	Cloud cover (%)		80	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_7	Cloud cover (%)		80	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_70	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_70	Cloud cover (%)		80	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_70	Cloud cover (%)		80	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_71	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_71	Cloud cover (%)		90	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_71	Cloud cover (%)		90	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_72	Sea State (BF)	http://vocab.ices.dk/?ref=1705	3		
-TOPP_72	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_72	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_73	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_73	Cloud cover (%)		80	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_73	Cloud cover (%)		80	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_74	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_74	Cloud cover (%)		90	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_74	Cloud cover (%)		90	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_75	Sea State (BF)	http://vocab.ices.dk/?ref=1705	4		
-TOPP_75	Cloud cover (%)		60	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_75	Cloud cover (%)		60	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_76	Sea State (BF)	http://vocab.ices.dk/?ref=1705	5		
-TOPP_76	Cloud cover (%)		40	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_76	Cloud cover (%)		40	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_77	Sea State (BF)	http://vocab.ices.dk/?ref=1705	5		
-TOPP_77	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_77	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_78	Sea State (BF)	http://vocab.ices.dk/?ref=1705	4		
-TOPP_78	Cloud cover (%)		100	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_78	Cloud cover (%)		100	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_79	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_79	Cloud cover (%)		90	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_79	Cloud cover (%)		90	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_8	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_8	Cloud cover (%)		70	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_8	Cloud cover (%)		70	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_80	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_80	Cloud cover (%)		50	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_80	Cloud cover (%)		50	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
 TOPP_9	Sea State (BF)	http://vocab.ices.dk/?ref=1705	2		
-TOPP_9	Cloud cover (%)		30	Percent	 	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
+TOPP_9	Cloud cover (%)		30	Percent	http://vocab.nerc.ac.uk/collection/P06/current/UPCT/
