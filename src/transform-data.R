@@ -55,9 +55,10 @@ occ <- topp_data %>%
   mutate(decimalLatitude = sprintf("%.4f", decimalLatitude),
          decimalLongitude = sprintf("%.4f", decimalLongitude),
          coordinateUncertaintyInMeters = case_when(
-           as.integer(coordinateUncertaintyInMeters) == 0 ~ 30,
-           TRUE ~ as.integer(coordinateUncertaintyInMeters)
-           ))
+           as.integer(coordinateUncertaintyInMeters) == 0 ~ 2000,
+           TRUE ~ as.integer(coordinateUncertaintyInMeters + 2000)
+           ),
+         georeferenceRemarks = "coordinateUncertaintyInMeters includes uncertainty estimated based on the specifications of binoculars.")
 
 
 # events
@@ -65,7 +66,7 @@ occ <- topp_data %>%
 events <- occ %>% distinct(
   eventID, eventDate, year, month, day, decimalLatitude, decimalLongitude, 
   coordinateUncertaintyInMeters, footprintWKT, verbatimLocality, locality, waterBody,
-  eventTime, eventRemarks, samplingProtocol, reportedWeather, time_start, time_stop,
+  eventTime, eventRemarks, samplingProtocol, georeferenceRemarks, reportedWeather, time_start, time_stop,
   `Sea State (BF)`, `Cloud cover (%)`, `Vessel speed (nm)`)
 
 
