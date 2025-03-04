@@ -146,6 +146,9 @@ emof <- events %>%
     measurementUnitID
   )
 
+# remove occurrence 326 because there is no occurrence 326 in the data, but event is kept to inform user that the effort was expanded
+occ <- occ %>% filter(occurrenceID != 326) 
+
 # write files
 
 write_tsv(events, here("data", "output", "event.txt"), na = "")
