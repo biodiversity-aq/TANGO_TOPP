@@ -1,5 +1,7 @@
 # TANGO_TOPP
 
+[![DOI](https://zenodo.org/badge/925210836.svg)](https://doi.org/10.5281/zenodo.14978493)
+
 This repo contains script that transforms TOPP data from TANGO 1 & 2 expedition as well as the transformed data in Darwin Core tables.
 
 ## Repo structure
