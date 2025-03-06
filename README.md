@@ -1,6 +1,9 @@
 # TANGO_TOPP
 
+<!-- badges: start -->
+[![Dataset](https://img.shields.io/badge/Dataset-10.15468/x53vmd-Hex#509E2F)](https://doi.org/10.15468/x53vmd)
 [![DOI](https://zenodo.org/badge/925210836.svg)](https://doi.org/10.5281/zenodo.14978493)
+<!-- badges: end -->
 
 This repo contains script that transforms TOPP data from TANGO 1 & 2 expedition as well as the transformed data in Darwin Core tables.
 
@@ -17,11 +20,7 @@ This repo contains script that transforms TOPP data from TANGO 1 & 2 expedition 
 
 ## Getting started
 
-This project uses renv to manage the dependencies in a virtual environment. Please try the following command to load the dependencies:
-
-```
-renv::restore()
-```
+This project uses [renv](https://github.com/rstudio/renv/) to manage the project environment. Users can clone this repo and run `renv::restore()` as described in the [renv docs](https://rstudio.github.io/renv/).
 
 R version 4.4.2 was used the scripts in this repository.
 
